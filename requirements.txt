@@ -1,0 +1,4 @@
+albumentations==2.0.8
+ultralytics==8.3.162
+torch==2.7.1+cu118
+opencv-python==4.11.0.86
