@@ -1,6 +1,6 @@
 train: data/train/images
 val: data/val/images
-nc: 13  # Количество классов
+nc: 13 
 names: [
   "графин с чаем",
   "мясное блюдо",
